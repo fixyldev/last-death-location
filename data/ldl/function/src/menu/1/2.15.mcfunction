@@ -1,8 +1,3 @@
-###############################
-# All Rights Reserved
-# Copyright (c) 2025 fixyldev
-###############################
-
 function ldl:src/get_uuid
 function ldl:src/chat/history_menu with storage ldl:cache Cache
 

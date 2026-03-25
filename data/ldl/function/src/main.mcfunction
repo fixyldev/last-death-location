@@ -1,8 +1,3 @@
-###############################
-# All Rights Reserved
-# Copyright (c) 2025 fixyldev
-###############################
-
 function ldl:src/enable_trigger
 execute as @a run function ldl:src/check_trigger
 

@@ -1,8 +1,3 @@
-###############################
-# All Rights Reserved
-# Copyright (c) 2025 fixyldev
-###############################
-
 scoreboard objectives remove -deathlocation
 scoreboard objectives remove -deathhistory
 scoreboard objectives remove -deathsettings

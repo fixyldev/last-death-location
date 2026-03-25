@@ -1,8 +1,3 @@
-###############################
-# All Rights Reserved
-# Copyright (c) 2025 fixyldev
-###############################
-
 function ldl:src/path/menu/calc {Path: "A"}
 function ldl:src/path/menu/calc {Path: "B"}
 function ldl:src/path/menu/calc {Path: "C"}

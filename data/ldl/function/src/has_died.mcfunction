@@ -1,8 +1,3 @@
-###############################
-# All Rights Reserved
-# Copyright (c) 2025 fixyldev
-###############################
-
 scoreboard players reset @s ldl.death
 
 function ldl:src/get_uuid

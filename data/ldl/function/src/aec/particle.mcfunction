@@ -1,8 +1,3 @@
-###############################
-# All Rights Reserved
-# Copyright (c) 2025 fixyldev
-###############################
-
 particle minecraft:wax_off ~0.3 ~-1.45 ~0.3
 particle minecraft:wax_off ~-0.3 ~-1.45 ~0.3
 particle minecraft:wax_off ~-0.3 ~-1.45 ~-0.3
