@@ -1,8 +1,3 @@
-###############################
-# All Rights Reserved
-# Copyright (c) 2025 fixyldev
-###############################
-
 scoreboard objectives add -deathlocation trigger
 scoreboard objectives add -deathhistory trigger
 scoreboard objectives add -deathsettings trigger

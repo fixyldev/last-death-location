@@ -1,4 +1,6 @@
-# Menu
+# Internal Path Codes
+
+## Menu
 
 | Path                                         | Single Base 16 | Page Base 16 | Combined Base 10 |
 |----------------------------------------------|----------------|--------------|------------------|
@@ -27,8 +29,7 @@
 | Last Death Location / About                  | 1.4            | 0            | 65               |
 | Last Death Location / About / Version        | 1.4.1          | 0            | 321              |
 
-
-# Settings
+## Settings
 
 | Path                        | Single Base 16 | Combined Base 10 | Default (no value/false) |
 |-----------------------------|----------------|------------------|--------------------------|
