@@ -2,8 +2,8 @@ function ldl:src/chat/header {Path: '[{text: "Last Death Location / ", click_eve
 
 tellraw @s ""
 
-tellraw @s ["  ", {translate: "ldl.menu.1.4.1.version", fallback: "Version:  ", color: "gold"}, {text: "2.0.4", color: "yellow"}]
-tellraw @s ["  ", {translate: "ldl.menu.1.4.1.date", fallback: "Date:      ", color: "gold"}, {text: "2025-06-17", color: "yellow"}]
+tellraw @s ["  ", {translate: "ldl.menu.1.4.1.version", fallback: "Version:  ", color: "gold"}, {text: "2.0.5", color: "yellow"}]
+tellraw @s ["  ", {translate: "ldl.menu.1.4.1.date", fallback: "Date:      ", color: "gold"}, {text: "2026-03-25", color: "yellow"}]
 
 tellraw @s ""
 
