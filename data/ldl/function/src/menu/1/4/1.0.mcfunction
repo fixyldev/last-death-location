@@ -8,7 +8,7 @@ tellraw @s ["  ", {translate: "ldl.menu.1.4.1.date", fallback: "Date:      ", co
 tellraw @s ""
 
 tellraw @s {text: "  All Rights Reserved", color: "gray"}
-tellraw @s {text: "  Copyright (c) 2025 fixyldev", color: "gray"}
+tellraw @s {text: "  Copyright (c) 2026 fixyldev", color: "gray"}
 
 tellraw @s ""
 
