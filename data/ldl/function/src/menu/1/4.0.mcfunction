@@ -6,9 +6,9 @@ tellraw @s ["  > ", {translate: "ldl.menu.1.4.version", fallback: "Version", cli
 
 tellraw @s ""
 
+tellraw @s ["  > ", {translate: "ldl.menu.1.4.download", fallback: "Download", click_event: {action: "open_url", url: "https://modrinth.com/datapack/last-death-location"}, hover_event: {action: "show_text", value: "https://modrinth.com/datapack/last-death-location"}, color: "#5588ff"}, " <"]
 tellraw @s ["  > ", {translate: "ldl.menu.1.4.source", fallback: "Source", click_event: {action: "open_url", url: "https://github.com/fixyldev/last-death-location"}, hover_event: {action: "show_text", value: "https://github.com/fixyldev/last-death-location"}, color: "#5588ff"}, " <"]
 tellraw @s ["  > ", {translate: "ldl.menu.1.4.issues", fallback: "Issues", click_event: {action: "open_url", url: "https://github.com/fixyldev/last-death-location/issues"}, hover_event: {action: "show_text", value: "https://github.com/fixyldev/last-death-location/issues"}, color: "#5588ff"}, " <"]
-tellraw @s ["  > ", {translate: "ldl.menu.1.4.wiki", fallback: "Wiki", click_event: {action: "open_url", url: "https://github.com/fixyldev/last-death-location/wiki"}, hover_event: {action: "show_text", value: "https://github.com/fixyldev/last-death-location/wiki"}, color: "#5588ff"}, " <"]
 
 tellraw @s ""
 
